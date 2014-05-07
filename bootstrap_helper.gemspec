@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "railties", ">= 4.0.0"
   gem.add_dependency "thor",     "~> 0.14"
-  gem.add_dependency "will_paginate", '>= 3.0.3'
+  gem.add_dependency "will_paginate", '>= 3.0.5'
   gem.add_development_dependency("rspec-rails")
   gem.add_development_dependency("capybara", ">= 0.4.0")
   gem.add_development_dependency("sqlite3")
